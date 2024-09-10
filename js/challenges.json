@@ -1,0 +1,73 @@
+{
+    "challenges": [
+        {
+            "title": "Streamlining Information Architecture for a Government Website",
+            "subTitle":"Government websites are often information-dense, which can overwhelm users trying to find specific services or information. <b>Challenge: Rework the information architecture of a government website to make it easier for users to find relevant information and complete key tasks.</b>"
+        },
+        {
+            "title": "Building Trust in a Peer-to-Peer Marketplace",
+            "subTitle":"In peer-to-peer marketplaces (e.g., for buying/selling used goods), users often hesitate to transact due to a lack of trust. <b>Challenge: Design trust-building elements (such as reviews, ratings, and identity verification) for a peer-to-peer marketplace app.</b>"
+        },
+        {
+            "title": "Redesigning UX for Digital Payment Solutions in Developing Markets",
+            "subTitle":"In many developing regions, digital payment systems can be complicated or inaccessible for users unfamiliar with tech-heavy interfaces. <b>Challenge: Redesign the user experience of a digital payment solution tailored for users in developing markets, with a focus on simplicity, security, and trust-building.</b>"
+        },
+        {
+            "title": "Reducing Decision Fatigue in Subscription Services",
+            "subTitle":"Subscription services often present too many choices, leading to decision fatigue for users. <b>Challenge: Redesign the subscription selection process of a service (e.g., Netflix or meal kits) to minimize choice overload while maintaining user autonomy.</b>"
+        },
+        {
+            "title": "Streamlining the UX of Job Application Platforms",
+            "subTitle":"Applying for jobs online can be time-consuming, often requiring repeated entry of the same information. <b>Challenge: Redesign the job application process for an employment platform, reducing redundant tasks and improving applicant tracking.</b>"
+        },
+        {
+            "title": "Improving the UX of Personal Finance Apps for Low-Literacy Users",
+            "subTitle":"Many financial apps assume users are financially literate, which alienates users with low financial or digital literacy. <b>Challenge: Redesign a personal finance app to better serve users with limited literacy, focusing on icons, simplified text, and interactive guidance.</b>"
+        },
+        {
+            "title": "Building a Community-Driven Fitness App",
+            "subTitle":"Fitness apps are often single-user experiences, missing out on the motivational boost of a supportive community. <b>Challenge: Design a fitness app with community features that encourage users to connect, share progress, and support one another.</b>"
+        },
+        {
+            "title": "Designing a Donation Platform for Charitable Causes",
+            "subTitle":"Many people want to donate to causes but are discouraged by unclear processes or trust issues with where their money goes. <b>Challenge: Create a donation platform that offers transparency, ease of use, and personalized recommendations based on the user’s interests and values.</b>"
+        },
+        {
+            "title": "Enhancing the UX of Music Collaboration Tools for Remote Musicians",
+            "subTitle":"With more remote collaboration, musicians need better tools to work together across distances. <b>Challenge: Redesign a music collaboration tool to make it easier for remote musicians to create, edit, and share music in real-time or asynchronously.</b>"
+        },
+        {
+            "title": "Designing an Intuitive Voting System for Elections",
+            "subTitle":"Many voting systems are unintuitive and create barriers to participation due to confusion or inaccessibility. <b>Challenge: Design an easy-to-use and accessible voting system for local elections that simplifies ballot navigation and improves user trust in the process..</b>"
+        },
+        {
+            "title": "Designing a Personalized Fitness App for People with Disabilities",
+            "subTitle":"Fitness apps are often one-size-fits-all and don’t address the unique needs of people with physical or cognitive disabilities. <b>Challenge: Design a fitness app tailored for people with disabilities, providing personalized workouts and accessibility features that adapt to users’ abilities.</b>"
+        },
+        {
+            "title": "Improving the UX of Public Transit Kiosks for Tourists",
+            "subTitle":"Tourists often struggle to navigate public transit systems in unfamiliar cities, especially when kiosk interfaces are poorly designed. <b>Challenge: Design a tourist-friendly public transit kiosk interface that simplifies ticket purchasing, route navigation, and offers language support for foreign visitors.</b>"
+        },
+        {
+            "title": "Designing a Community-based Grocery Shopping Experience",
+            "subTitle":"Users are becoming more focused on sustainability and supporting local businesses, but grocery apps often fail to provide local options or community integration. <b>Challenge: Design a grocery app that focuses on local produce, allowing users to connect with nearby vendors and reduce their environmental impact.</b>"
+        },
+        {
+            "title": "Designing an Inclusive Banking App for the Unbanked Population",
+            "subTitle":"A large portion of the global population remains unbanked due to barriers like lack of trust, financial literacy, or access to digital tools. <b>Challenge: Design a mobile banking app tailored for the unbanked, with features that build trust, improve financial literacy, and simplify the onboarding process for those unfamiliar with traditional banking systems.</b>"
+        },
+        {
+            "title": "Redesigning the Job Search Experience for Career Shifters",
+            "subTitle":"Career shifters often have different needs compared to traditional job seekers, such as reskilling, exploring new industries, or showcasing transferable skills. <b>Challenge: Redesign a job search platform to better support career changers, with features like reskilling recommendations, alternative career paths, and highlighting transferable skills in profiles and applications.</b>"
+        },
+        {
+            "title": "Improving the UX of Content Moderation Tools for Online Communities",
+            "subTitle":"Moderating online communities is a complex task that requires efficient tools for identifying and managing harmful content while fostering engagement and trust. <b>Challenge: Redesign a content moderation dashboard for community managers, simplifying the process of filtering, flagging, and responding to harmful content, while providing more nuanced tools to maintain community guidelines without stifling conversation.</b>"
+        },
+        {
+            "title": "Redesigning the UX for Online Art Marketplaces",
+            "subTitle":"Artists and collectors often struggle with finding transparent, user-friendly online platforms for selling or buying art, due to complex payment systems or vague terms. <b>Challenge: Redesign an online art marketplace that simplifies the buying and selling process, improves trust between artists and buyers, and offers clear insights into art valuations and authenticity.</b>"
+        }
+    ]
+}
+   
