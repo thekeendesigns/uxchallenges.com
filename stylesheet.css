@@ -33,67 +33,50 @@ html {
   }
 body {
     margin: 96px;
-    overflow: hidden;
 }
 /*Typography*/
-h1 {
+h1, h2, h3, h4, h5, p {
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
+    font-style: normal;
+    margin: 0;
+}
+h1 {
     font-size: 36px;
     font-weight: 700;
-    font-style: normal;
     letter-spacing: -0.32px;
     line-height: 44px;
-    margin: 0px 0px 8px 0px;
+    margin-bottom: 8px;
 }
 h2 {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-size: 18px;
     font-weight: 500;
-    font-style: normal;
     letter-spacing: -0.32px;
     line-height: 28px;
-    margin: 0px;
     color: var(--gray400);
-    margin: 0px 0px 24px 0px;
+    margin-bottom: 24px;
 }
 h3 {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-size: 18px;
     font-weight: 600;
-    font-style: normal;
     line-height: 28px;
     color: var(--gray900);
     margin: 0px 0px 8px 0px;;
 }
 h4 {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-size: 16px;
     font-weight: 500;
-    font-style: normal;
     line-height: 24px;
-    margin: 0px;
 }
 h5 {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-size: 16px;
     font-weight: 600;
-    font-style: normal;
     line-height: 24px;
-    margin: 0px;
 }
 p {
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
     font-size: 16px;
     font-weight: 400;
-    font-style: normal;
     line-height: 24px;
-    margin: 0px; 
     color: var(--gray600);
 }
 a {
@@ -182,21 +165,12 @@ a:hover {
     height: 24px;
     transition: all 0.3s ease;
 }
-#undo:hover {
+#undo:hover, #refresh:hover {
     background-color: var(--gray50);
     border-radius: 24%;
     cursor: pointer;
 }
-#refresh:hover {
-    background-color: var(--gray50);
-    border-radius: 24%;
-    cursor: pointer;
-}
-#undo:active {
-    border: 1px solid var(--gray300);
-    cursor: pointer;
-}
-#refresh:active {
+#undo:active, #refresh:active {
     border: 1px solid var(--gray300);
     cursor: pointer;
 }
